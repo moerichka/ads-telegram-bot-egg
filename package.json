@@ -5,7 +5,8 @@
   "repository": "https://gitlab.com/mixr_labs/web/ordinals-eggs.git",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "buildAndExport": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
