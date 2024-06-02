@@ -30,6 +30,12 @@ export default function Document() {
             gtag('config', 'G-8TBTLGM2TZ');`,
           }}
         />
+
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6368128433214629"
+          crossOrigin="anonymous"
+        />
       </Head>
       <body>
         <Main />
